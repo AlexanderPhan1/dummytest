@@ -1,0 +1,47 @@
+.aside{
+    background-color:#bcaaa4 
+}
+
+.Aside{
+    height: 100%;
+    background-color: brown
+        
+    }
+    
+    .num1{
+        border: solid brown;
+        
+        
+    }
+    
+    .num2{
+        border: solid brown;
+        margin-bottom: 15px;
+    }
+    
+    .num3{
+        border: solid brown
+    }
+    
+    .num4{
+        border: solid brown
+    }
+    
+    .carry-pickup{
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+    
+    .order{
+        margin: auto
+    }
+    
+    .boxlogo{
+        width: 200px;
+        height:200px;
+    }
+
+    .chefpics{
+        width: 200px;
+        height: 200px
+    }
